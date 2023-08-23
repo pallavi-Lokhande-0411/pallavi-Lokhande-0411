@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Pallavi Lokhande
-- 👀 I’m interested in coding.
-- 🌱 I’m currently Pursuing BE Electrical Engineering..
-- 💞️ I’m looking to collaborate on new thing...
+
